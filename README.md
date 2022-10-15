@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Fullstack Developer From 🇹🇷 Turkey at Girift Education Technologies. I hold a Bachelor's Degree in Computer Engineering and have more than 4 years of experience in developing MVC Apps, Web Apps, and REST APIs.
+
+I care about code quality. I am dedicated to constantly improving myself by learning new technologies and frameworks.
+
+Get In Touch:
+- [LinkedIn](https://www.linkedin.com/in/brnysn/)
+- [Personal website](https://brnysn.com)
+
 <!--
 **brnysn/brnysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
