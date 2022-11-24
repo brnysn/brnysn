@@ -33,10 +33,6 @@ I care about <b>code quality</b>. I am dedicated to constantly improving myself 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-##  Socials
-
-<p align="left"> <a href="https://www.github.com/brnysn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  
 
 <a href="http://www.github.com/brnysn"><img src="https://github-readme-stats.vercel.app/api?username=brnysn&show_icons=true&hide=&count_private=true&title_color=000000&text_color=64748b&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="brnysn's GitHub stats" /></a>
   
