@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a <b>Fullstack Developer</b> From 🇹🇷 Turkey. I have more than 4 years of experience in developing MVC Apps, Web Apps, and REST APIs.
+I'm a <b>Team Leader & Fullstack Developer</b> From 🇹🇷 Turkey. I have more than 4 years of experience in developing MVC Apps, Web Apps, and REST APIs.
 
 I care about <b>code quality</b>. I am dedicated to constantly improving myself by learning new technologies and frameworks.
 
