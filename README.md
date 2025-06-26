@@ -8,9 +8,6 @@ I'm a passionate <b>Fullstack Developer</b> From 🇹🇷 Turkey. I have hands-o
 
 ## 📃 Status
 
-- 🔭 I’m currently working on [Laravel World](https://github.com/brnysn/Laravel-World) & [Laravel Settings](https://github.com/brnysn/Laravel-Settings)
-- 🌱 I’m currently learning VueJs.
-- 👯 I’m looking to collaborate on [Laravel World](https://github.com/brnysn/Laravel-World) & [Laravel Settings](https://github.com/brnysn/Laravel-Settings)
 - 💬 Ask me about anyting. 
 - 📫 How to reach me: ...
   - [LinkedIn](https://www.linkedin.com/in/brnysn/)
